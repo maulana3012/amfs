@@ -60,11 +60,6 @@ var Translations = {
             "card": "d1b4d742",
             "label": "Email",
             "icon": "email"
-        },
-        "button4": {
-            "url": "http://example.com/",
-            "label": "Survey",
-            "icon": "save"
         }
     },
 
