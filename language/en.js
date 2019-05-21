@@ -63,8 +63,8 @@ var Translations = {
         },
         "button4": {
             "url": "http://example.com/",
-            "label": "Share",
-            "icon": "share"
+            "label": "Survey",
+            "icon": "save"
         }
     },
 
